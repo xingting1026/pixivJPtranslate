@@ -1,0 +1,11 @@
+# Pixiv小說閱讀與翻譯工具 依賴套件
+
+# Pixiv API操作相關
+pixivpy3==3.7.4
+gppt==0.3.1  # GetPixivToken模組
+
+# HTTP請求處理
+requests==2.31.0
+
+# 圖像處理，用於某些UI元素
+pillow==10.1.0 
